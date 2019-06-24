@@ -3,7 +3,7 @@ Develop and test Django applications in a portable containerized development env
 
 The app files are available locally and you can edit them with the editor of your choice. All the commands are run in a container. You do not need to install Python or any of the dependencies locally.
 
-Django-devkit uses Python 3.7 and Django 2.2.1 by default.
+Django-devkit uses Python 3.7 and Django 2.2.2 by default.
 
 Postgres is included via docker-compose.
 
