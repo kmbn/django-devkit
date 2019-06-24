@@ -85,7 +85,7 @@ make install PKG=<name of package (optionally==version)>
 
 install --dev:
 ```shell
-make installdev PKG=<name of package (optionally==version)
+make installdev PKG=<name of package (optionally==version)>
 ```
 
 uninstall:
