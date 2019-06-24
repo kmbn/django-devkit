@@ -77,7 +77,7 @@ startapp:
 make startapp APP=<name of app>
 ```
 
-# Pipenv commands
+## Pipenv commands
 install:
 ```shell
 make install PKG=<name of package (optionally==version)>
